@@ -1,4 +1,4 @@
-package codility.lesson03.lesson03;
+package codility.lesson03;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
